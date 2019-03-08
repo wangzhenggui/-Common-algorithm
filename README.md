@@ -1,2 +1,2 @@
-# -Common-algorithm
+# Common-algorithm
 常用算法
